@@ -2,6 +2,7 @@
 	height: 522px;
 	background-image: url(img/bg.png);
 	color: white;
+	background-size: cover;
 }
 .site{
    background: #F2F2F2;
